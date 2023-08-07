@@ -10,3 +10,4 @@ Here is a list of the planets in the solar system:
 6. **Saturn**: Known for its stunning rings visible from Earth.
 7. **Uranus**: A planet tilted on its side, unique in the solar system.
 8. **Neptune**: The farthest planet from the Sun, known for its blue color.
+8. **Pluto**: The farthest planet from the Sun, known for its blue color.
