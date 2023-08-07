@@ -9,4 +9,5 @@ Here is a list of the planets in the solar system:
 5. **Jupiter**: The largest planet in the solar system, with an imposing size.
 7. **Uranus**: A planet tilted on its side, unique in the solar system.
 8. **Neptune**: The farthest planet from the Sun, known for its blue color.
+8. **Pluto**: The farthest planet from the Sun, known for its blue color.
 1. **Mercury**: The closest planet to the Sun.
