@@ -1,0 +1,12 @@
+# Planets of the Solar System
+
+Here is a list of the planets in the solar system:
+
+1. **Mercury**: The closest planet to the Sun.
+2. **Venus**: Often called Earth's "sister planet" due to their similarities.
+3. **Earth**: Our home planet, known for its life and atmosphere.
+4. **Mars**: Nicknamed the "Red Planet" because of its characteristic hue.
+5. **Jupiter**: The largest planet in the solar system, with an imposing size.
+6. **Saturn**: Known for its stunning rings visible from Earth.
+7. **Uranus**: A planet tilted on its side, unique in the solar system.
+8. **Neptune**: The farthest planet from the Sun, known for its blue color.
